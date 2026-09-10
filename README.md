@@ -1,6 +1,6 @@
-# Mortalpowers
+# simplepowers
 
-Mortalpowers is a readability-first sandbox for AI coding assistants.
+simplepowers is a readability-first sandbox for AI coding assistants.
 
 It is a constraint-based wrapper that forces AI tools to write intermediate-level, flat, readable, and highly observable code—code that human intermediate developers can easily read, debug, and learn from.
 
